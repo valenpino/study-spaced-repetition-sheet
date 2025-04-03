@@ -8,7 +8,7 @@ Este es un pequeño proyecto hecho en Google Sheets con Apps Script que te permi
 
 ## ✨ ¿Qué consigue el usuario con este sistema?
 
-- 📅 Calcular automáticamente la fecha del próximo repaso según el emoji de confianza que elijas.
+- 📅 📈 Calcular el próximo repaso según el emoji de confianza elegido.
   - "😫" diasParaRepaso = 1;
   - "😐" diasParaRepaso = 2;
   - "😊" diasParaRepaso = 3;
@@ -29,16 +29,16 @@ Este es un pequeño proyecto hecho en Google Sheets con Apps Script que te permi
 - 🗃️ Ordena todas las filas según urgencia (`.sort()` por fecha).
 
 ---
-
 ## 📥 ¿Cómo usar este sistema?
 
-1. Crea una nueva hoja de cálculo en Google Sheets desde [sheets.new](https://sheets.new)
+1. Crea una nueva hoja de cálculo en Google Sheets desde [sheets.new](https://sheets.new).
 2. Ve a `Extensiones > Apps Script` y reemplaza el código que aparece por [`code/script.js`](code/script.js).
 3. Guarda el proyecto.
 4. Vuelve a la hoja y verás un nuevo menú llamado “⚡ Repetición Espaciada”.
-5. Haz clic en `🛠️ Crear columnas` para empezar.
-6. Rellena tus temas, elige el emoji de confianza, y todo lo demás se calcula solo ✨
-7. ¡Ahora es tu turno! Personaliza el sistema como quieras: cambia los emojis, modifica los colores, adapta las categorías… hazlo tuyo. 💡
+5. Haz clic en `🛠️ Crear columnas` para que el sistema se configure automáticamente.
+6. Escribe tus temas y marca la casilla "Estudiado ✅" cuando termines un tema y elige el emoji de confianza
+7. El sistema rellenará la fecha de estudio, calculará el próximo repaso y lo marcará en rojo si toca repasarlo hoy.
+8.  ¡Ahora es tu turno! Personaliza el sistema como quieras: cambia los emojis, modifica los colores, adapta las categorías… hazlo tuyo. 💡
 
 > Si haces una versión mejorada o diferente, ¡compártela! Me encantará ver qué creas tú con este sistema 🙌
 
