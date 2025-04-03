@@ -32,7 +32,7 @@ Este es un pequeño proyecto hecho en Google Sheets con Apps Script que te permi
 
 ## 📥 ¿Cómo usar este sistema?
 
-1. Crea una nueva hoja de cálculo en Google Sheets desde [sheets.new](https://sheets.new){:target="_blank"}.
+1. Crea una nueva hoja de cálculo en Google Sheets desde [sheets.new](https://sheets.new)
 2. Ve a `Extensiones > Apps Script` y reemplaza el código que aparece por [`code/script.js`](code/script.js).
 3. Guarda el proyecto.
 4. Vuelve a la hoja y verás un nuevo menú llamado “⚡ Repetición Espaciada”.
@@ -46,7 +46,7 @@ Este es un pequeño proyecto hecho en Google Sheets con Apps Script que te permi
 
 ## 📸 Vista previa
 
-👉 [Ver hoja de ejemplo (solo lectura)](https://docs.google.com/spreadsheets/d/1sH79VouooTM0GJi_s_t2a2zx7bh_BGh3d8jzvJiOIuc/edit?usp=sharing){:target="_blank"}.
+👉 [Ver hoja de ejemplo (solo lectura)](https://docs.google.com/spreadsheets/d/1sH79VouooTM0GJi_s_t2a2zx7bh_BGh3d8jzvJiOIuc/edit?usp=sharing)
 
 ---
 
